@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        /**
+         * hotfix on V0.1
+         */
     }
 
     @Override
