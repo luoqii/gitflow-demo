@@ -40,6 +40,10 @@ public class MainActivity extends AppCompatActivity {
         /**
          * after release1.0 add new logic for next release.
          */
+
+        /**
+         * after merge featurA, now it's time to release.
+         */
     }
 
     @Override
