@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
         /**
          * add more logic on release1.0 branch
          */
+
+        /**
+         * now release1.0 has tested, and pass all testcase.
+         */
     }
 
     @Override
