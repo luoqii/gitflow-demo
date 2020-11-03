@@ -18,6 +18,27 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onStart() {
+        super.onStart();
+
+        /**
+         * add logic on develop branch
+         */
+
+        /**
+         * add logic on release1.0 branch
+         */
+
+        /**
+         * add more logic on release1.0 branch
+         */
+
+        /**
+         * now release1.0 has tested, and pass all testcase.
+         */
+    }
+
+    @Override
     protected void onResume() {
         super.onResume();
         /**
@@ -28,5 +49,22 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+        /**
+         * add logic on develop branch
+         */
+
+        /**
+         * add logic on release1.0 branch
+         */
+
+        /**
+         * add more logic on release1.0 branch
+         */
     }
 }
