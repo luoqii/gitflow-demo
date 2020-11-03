@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
         /**
          * add logic on release1.0 branch
          */
+
+        /**
+         * add more logic on release1.0 branch
+         */
     }
 
     @Override
@@ -50,6 +54,10 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * add logic on release1.0 branch
+         */
+
+        /**
+         * add more logic on release1.0 branch
          */
     }
 }
