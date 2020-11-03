@@ -36,6 +36,10 @@ public class MainActivity extends AppCompatActivity {
         /**
          * now release1.0 has tested, and pass all testcase.
          */
+
+        /**
+         * after release1.0 add new logic for next release.
+         */
     }
 
     @Override
