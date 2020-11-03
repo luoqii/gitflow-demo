@@ -20,6 +20,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+
+        /**
+         * add logic on develop branch
+         */
     }
 
     @Override
@@ -35,5 +39,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
+
+        /**
+         * add logic on develop branch
+         */
     }
 }
