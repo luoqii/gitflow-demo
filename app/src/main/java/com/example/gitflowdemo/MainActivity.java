@@ -29,11 +29,19 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+
+        /**
+         * add logic on develop branch
+         */
     }
 
     @Override
     protected void onPause() {
         super.onPause();
+
+        /**
+         * add logic on develop branch
+         */
     }
 
     @Override
